@@ -1,0 +1,13 @@
+Makefile
+metadata.json
+icons
+/screenshots/
+nuvola-app-pretzel
+eu.tiliado.NuvolaAppPretzel.desktop
+eu.tiliado.NuvolaAppPretzel.service
+eu.tiliado.NuvolaAppPretzel.appdata.xml
+nuvola-app-pretzel.metainfo.xml
+eu.tiliado.WebRuntimeAppPretzel.desktop
+eu.tiliado.WebRuntimeAppPretzel.service
+eu.tiliado.WebRuntimeAppPretzel.appdata.xml
+nuvola-app-pretzel.metainfo.xml
